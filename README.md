@@ -1,5 +1,5 @@
 # ISPCluster
-Convert ISPConfig3 to cluster aware (system account control under freeipa server)
+Cloud ISP Hosting control panel
 
 TODO
 - Integrate with FreeIPA server for unique system uid assignment
